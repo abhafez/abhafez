@@ -44,6 +44,10 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
 
 ###
@@ -56,7 +60,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
-  <img src="https://skillicons.dev/icons?i=tmux" height="40" alt="tmux logo"  />
 </div>
 
 ###
