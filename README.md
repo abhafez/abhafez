@@ -56,6 +56,7 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=tmux" height="40" alt="tmux logo"  />
 </div>
 
 ###
