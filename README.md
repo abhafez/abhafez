@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
   <img width="12" />
 </div>
