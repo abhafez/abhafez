@@ -30,7 +30,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
 </div>
 
 ###
