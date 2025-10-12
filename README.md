@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian"  />
 </div>
 
 ###
